@@ -1,0 +1,1 @@
+Segundo archivo de texto para probar funcionamiento de GIT.
